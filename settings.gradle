@@ -1,0 +1,3 @@
+include ':LikeButton'
+include ':app'
+rootProject.name = "LikeButtonSample"
